@@ -1,0 +1,5 @@
+name: MCFight
+main: AbcChanelMC\Main
+api: 1.12.0
+version: 1.0beta by AbcChanelMC
+load: POSTWORLD
